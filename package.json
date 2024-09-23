@@ -52,16 +52,16 @@
   },
   "lastUsedTags": {
     "@awayfl/avm1": "v0.2.175",
-    "@awayfl/avm2": "v0.2.220",
+    "@awayfl/avm2": "v0.2.221",
     "@awayfl/awayfl-player": "v0.2.43",
-    "@awayfl/playerglobal": "v0.2.403",
-    "@awayfl/swf-loader": "v0.4.128",
+    "@awayfl/playerglobal": "v0.2.407",
+    "@awayfl/swf-loader": "v0.4.129",
     "@awayjs/core": "v0.9.47",
-    "@awayjs/graphics": "v0.5.90",
+    "@awayjs/graphics": "v0.5.91",
     "@awayjs/materials": "v0.6.16",
-    "@awayjs/renderer": "v0.11.65",
-    "@awayjs/scene": "v0.13.279",
-    "@awayjs/stage": "v0.11.145",
-    "@awayjs/view": "v0.6.64"
+    "@awayjs/renderer": "v0.11.66",
+    "@awayjs/scene": "v0.13.285",
+    "@awayjs/stage": "v0.11.147",
+    "@awayjs/view": "v0.6.65"
   }
 }
